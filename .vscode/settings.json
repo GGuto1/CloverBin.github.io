@@ -1,0 +1,5 @@
+{
+    "files.exclude": {
+        "https://github.com/CloverBin/CloverBin.github.io.git": true
+    }
+}
